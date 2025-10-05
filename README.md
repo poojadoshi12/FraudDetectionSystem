@@ -13,13 +13,13 @@ Build a production-ready fraud detection system that:
 - Provides explainable fraud risk scores
 
 ## 📁 Project Structure
-fraud-detection/
-├── data/               # Dataset storage (not tracked)
-├── src/                # Source code
-├── notebooks/          # Jupyter notebooks for exploration
-├── models/             # Trained models (not tracked)
-├── tests/              # Unit tests
-└── experiments/        # Experiment logs and results
+
+- data/               
+- src/                
+- notebooks/          
+- models/             
+- tests/             
+- experiments/        
 
 ## 🚀 Development Timeline
 
