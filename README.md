@@ -1,4 +1,4 @@
-# FraudDetectionSystem
+# Fraud Detection System
 Financial document analysis system for fraud detection using anomaly detection
 
 ## 🚧 Project Status: In Development
